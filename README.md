@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Srikanth Fernando.<br>🎓 Undergraduate at Curtin University.<br>💻 Working as a Software Engineer at SociNexa.
+👋 Hi! I'm Srikanth Fernando.<br>🎓 Undergraduate at Curtin University.
 
 
 ## 🌐 Socials:
