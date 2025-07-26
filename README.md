@@ -11,11 +11,14 @@ I’m a Software Engineer based in Perth, Western Australia with a passion for s
 - 🌱 I’m currently learning [tech stack or tool]
 - 👯 I’m looking to collaborate on [projects/types of work]
 - 💬 Ask me about [topics you're comfortable discussing]
- -->
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:srikanthfernando3@gmail.com)
 - ⚡ Fun fact: [something quirky or interesting]
+ -->
 
----
+- 🧑‍🎓 I'm currently undergrauating at Curtin University
+- 👯 I’m looking to collaborate on projects or types of work
+- 💬 Ask me about software development related stuff
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:srikanthfernando3@gmail.com)
+
 ## 🛠️ Tech Stack
 **Languages:**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,9 +73,7 @@ I’m a Software Engineer based in Perth, Western Australia with a passion for s
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
----
 
----
 ## 📈 GitHub Stats
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=axcel-blade&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axcel-blade&layout=compact&theme=tokyonight)
