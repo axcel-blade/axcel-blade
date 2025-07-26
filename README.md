@@ -22,7 +22,7 @@ I’m a Software Engineer based in Perth, Western Australia, with a passion for 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:srikanthfernando3@gmail.com)
 
 ## 🛠️ Tech Stack
-**🛡️ Languages:**<br/>
+**🛡️ Languages**<br/>
 
 ![Languages](https://skillicons.dev/icons?i=bash,c,cs,css,cpp,dart,html,java,js,kotlin,php,py,swift,ts&perline=5)
 
@@ -57,7 +57,7 @@ I’m a Software Engineer based in Perth, Western Australia, with a passion for 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 -->
 
-**🌐 Backend Frameworks:**<br/>
+**🌐 Backend Frameworks**<br/>
 ![Backend](https://skillicons.dev/icons?i=django,express,flask,dotnet)
 <!--
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -70,7 +70,7 @@ I’m a Software Engineer based in Perth, Western Australia, with a passion for 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 -->
 
-**📱 Mobile Frameworks:**<br/>
+**📱 Mobile Frameworks**<br/>
 ![Mobile](https://skillicons.dev/icons?i=flutter,swift)
 <!--
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -78,7 +78,7 @@ I’m a Software Engineer based in Perth, Western Australia, with a passion for 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 -->
 
-**🗃️ Databases:**<br/>
+**🗃️ Databases**<br/>
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 <!--
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -87,7 +87,7 @@ I’m a Software Engineer based in Perth, Western Australia, with a passion for 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 -->
 
-**🛠️ Dev Tools & Others:**<br/>
+**🛠️ Dev Tools & Others**<br/>
 ![Dev Tools](https://skillicons.dev/icons?i=androidstudio,docker,git,github,linux,vscode,visualstudio,wordpress&perline=5)
 
 <!--
