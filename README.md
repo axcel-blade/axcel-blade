@@ -16,7 +16,7 @@ I’m a Software Engineer based in Perth, Western Australia with a passion for s
 
 - 🧑‍🎓 I'm currently undergrauating at Curtin University
 - 👯 I’m looking to collaborate on projects or types of work
-- 💬 Ask me about software development related stuff
+- 💬 Ask me about software development-related stuff
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:srikanthfernando3@gmail.com)
 
 ## 🛠️ Tech Stack
