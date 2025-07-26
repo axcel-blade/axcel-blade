@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Joseph Fernando!
 
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/axcel-blade?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/axcel-blade?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+-->
 
 ## 🚀 About Me
 I’m a Software Engineer based in Perth, Western Australia, with a passion for software development.
