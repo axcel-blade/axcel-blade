@@ -37,7 +37,7 @@ I’m a Software Engineer based in Perth, Western Australia, with a passion for 
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 **🛠️ Dev Tools & Others**<br/>
-![Dev Tools](https://skillicons.dev/icons?i=androidstudio,docker,git,github,linux,vscode,visualstudio,wordpress,photoshop,illustrator,figma,npm,pycharm,idea,vercel,netlify,kubernetes&perline=5)
+![Dev Tools](https://skillicons.dev/icons?i=androidstudio,docker,git,github,gradle,linux,vscode,visualstudio,wordpress,photoshop,illustrator,figma,npm,pycharm,idea,vercel,netlify,kubernetes&perline=5)
 
 ## 📈 GitHub Stats
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=axcel-blade&show_icons=true&theme=tokyonight)
