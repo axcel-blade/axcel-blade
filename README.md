@@ -63,13 +63,6 @@ Software Engineer based in **Perth, Western Australia**, focused on building rel
 
 ---
 
-## GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=axcel-blade&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axcel-blade&layout=compact&theme=tokyonight)
-
----
-
 ## Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthfernando3@gmail.com)
