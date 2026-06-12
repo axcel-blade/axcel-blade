@@ -63,6 +63,30 @@ Software Engineer based in **Perth, Western Australia**, focused on building rel
 
 ---
 
+## Metrics
+
+### Languages
+
+![Languages](metrics/languages.svg)
+
+### Commit Activity
+
+![Isometric Calendar](metrics/isocalendar.svg)
+
+### Coding Habits
+
+![Habits](metrics/habits.svg)
+
+### Achievements
+
+![Achievements](metrics/achievements.svg)
+
+### Repositories
+
+![Repositories](metrics/repositories.svg)
+
+---
+
 ## Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthfernando3@gmail.com)
