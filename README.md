@@ -65,8 +65,8 @@ Software Engineer based in **Perth, Western Australia**, focused on building rel
 
 ## GitHub Stats
 
-![GitHub Stats](https://camo.githubusercontent.com/0b98802bb5ea3d0a59db023787c1d7c50ca0ab0d7072c56364e3dbb3e4f2c2f8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d536c2d53616e64612d52752673686f775f69636f6e733d74727565)
-![Top Languages](https://camo.githubusercontent.com/1d80375c6a0fe7698f58eaacb9bf4f0940b33868dbc0f1e4babe655feff858d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d536c2d53616e64612d5275)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axcel-blade&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axcel-blade)
 
 ---
 
